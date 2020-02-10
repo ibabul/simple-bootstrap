@@ -1,6 +1,6 @@
 # simple-bootstrap
-![](./image/ss1.JPG)
+![](./image/ss1.png)
 
-![](./image/ss2.JPG)
+![](./image/ss2.png)
 
 Homepage by using simple bootstrap.
