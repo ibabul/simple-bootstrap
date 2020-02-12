@@ -8,20 +8,20 @@ Screenshot no1 :
 
 here are some class we use here : 
 
-*container
-*row
-*col-sm-8
-*col-sm-4
-*col-sm-6
-*col-sm-1
-*jumbotron
-*text-center
-*text-right
-*text-left
-*btn
-*btn-primary
-*pill-white
-*pill-black
+1) container.
+2) row.
+3) col-sm-8.
+4) col-sm-4.
+5) col-sm-6.
+6) col-sm-1.
+7) jumbotron.
+8) text-center.
+9) text-right.
+10) text-left.
+11) btn.
+12) btn-primary.
+13) pill-white.
+14) pill-black.
 
 Also we used a javaScript loader gif which will keep loading until all of my stylesheet runs. 
 to use this JavaScript we used a id name #loading and created a function in JavaScript myFunction();
