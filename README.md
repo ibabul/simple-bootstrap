@@ -22,6 +22,8 @@ here are some class we use here :
 -  **btn-primary**
 - **pill-white**
 - **pill-black**
+
+
 Also we used a javaScript loader gif which will keep loading until all of my stylesheet runs. 
 to use this JavaScript we used a id name #loading and created a function in JavaScript myFunction();
 
