@@ -8,7 +8,7 @@ Screenshot no1 :
 
 here are some class we use here : 
 
-*container
+***container
 *row
 *col-sm-8
 *col-sm-4
@@ -21,7 +21,7 @@ here are some class we use here :
 *btn
 *btn-primary
 *pill-white
-*pill-black
+*pill-black**
 
 Also we used a javaScript loader gif which will keep loading until all of my stylesheet runs. 
 to use this JavaScript we used a id name #loading and created a function in JavaScript myFunction();
