@@ -1,10 +1,11 @@
 # Simple-bootstrap
-Homepage by using simple bootstrap.
-This is a simple portfolio page created by using some of the common classes of bootstrap & some custom CSS as well.
+---
+*Homepage by using simple bootstrap.
+This is a simple portfolio page created by using some of the common classes of bootstrap & some custom CSS as well.*
 
-Screenshot no1 :
+*Screenshot no1 :*
 
-![](./image/ss11.png)
+#### ![](./image/ss11.png)
 
 #### here are some class we use here : 
 
@@ -29,6 +30,8 @@ to use this JavaScript we used a id name #loading and created a function in Java
 
 
 
-Screenshot no 2:
+*Screenshot no 2:*
 
-![](./image/ss22.png)
+#### ![](./image/ss22.png)
+
+# Check out my [website](https://www.wpmaestrp.net)
