@@ -1,4 +1,4 @@
-### simple-bootstrap
+# Simple-bootstrap
 Homepage by using simple bootstrap.
 This is a simple portfolio page created by using some of the common classes of bootstrap & some custom CSS as well.
 
@@ -6,7 +6,7 @@ Screenshot no1 :
 
 ![](./image/ss11.png)
 
-## here are some class we use here : 
+#### here are some class we use here : 
 
 - **container**
 - **row**
